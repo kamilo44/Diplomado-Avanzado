@@ -21,7 +21,16 @@ Sábados, 8-12m (hora de Colombia)
 
  ## Redes Neuronales
  - Introducción [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Redes%20Neuronales/Cuadernos/RedesNeuronales_intro.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Redes%20Neuronales/Cuadernos/RedesNeuronales_intro.ipynb), [diapositivas](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Redes%20Neuronales/Presentaciones/RedesNeuronales_intro.slides.html)
- - Autoencoders
+ 
+## Autocodificadores
+- Introducción a Autocodificadores. Ejemplo MNIST Denso [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Autocodificadores/Cuadernos/ae_Example_Dense_mnist.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_mnist.ipynb)
+- Reconstrucción de Rostros usando LFW (Labeled Faces in the Wild)  [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Autocodificadores/Cuadernos/ae_Example_Dense_Face_Recover.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_Face_Recover.ipynb)
+[[HTML]](https://htmlpreview.github.io/?https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_Face_Recover.html)
+- Coloración de imágenes [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Autocodificadores/Cuadernos/ae_Autoencoder_Colorizing.ipynb)  ,[nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Colorizing.ipynb)
+- Ejemplo eliminación de ruido con datos MNIST [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Autocodificadores/Cuadernos/ae_Eliminacion_ruido_MNIST.ipynb) ,[nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Eliminacion_ruido_MNIST.ipynb)
+- Autocodificador Convolucional para Eliminación de Ruido [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Autocodificadores/Cuadernos/Noise_Elimination_Conv.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/Noise_Elimination_Conv.ipynb)
+
+
  ## Matemáticas y Estadística de la IA
  - Optimización SGD [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Matem%C3%A1ticas%20y%20Estad%C3%ADstica%20de%20la%20IA/Cuadernos/optimizacion_sgd.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Matem%C3%A1ticas%20y%20Estad%C3%ADstica%20de%20la%20IA/Cuadernos/optimizacion_sgd.ipynb)
  - Tensores [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Matem%C3%A1ticas%20y%20Estad%C3%ADstica%20de%20la%20IA/Cuadernos/Intro_Tensores_II.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Matem%C3%A1ticas%20y%20Estad%C3%ADstica%20de%20la%20IA/Cuadernos/Intro_Tensores_II.ipynb)
@@ -35,16 +44,24 @@ Sábados, 8-12m (hora de Colombia)
  - Numpy [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/Taller_Numpy.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/Taller_Numpy.ipynb)
  - Pandas [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/Taller_Pandas.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/Taller_Pandas.ipynb)
  - API Keras.data.Dataset [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/La%20API%20tf.data.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/La%20API%20tf.data.ipynb)
- - Modelos de Regresión y Clasificación en Pytorch
- ## Series de Tiempo
- - Introducción
- - Redes Recurrentes: LSTM-GRU
- - Aplicaciones: Ejemplos en Keras
- - Transformes para Series Espacio-Temporales
+ - Modelos de  Clasificación en Pytorch [Github](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/Pytorch_10_clasificacion.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Programaci%C3%B3n/Cuadernos/Pytorch_10_clasificacion.ipynb)
+ ## Redes Recurrentes - Series de Tiempo
+
+  - [Introducción a modelos secuenciales](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_Times_series_Intro.ipynb)
+  - Introducción a redes recurrentes [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnn_Intro_Redes_Recurrentes.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnn_Intro_Redes_Recurrentes.ipynb)
+  - [Introducción a redes LSTM](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_LSTM_Intro.ipynb)
+  - [Introducción a redes GRU](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_GRU_Intro.ipynb)
+  - [Aprendizaje profundo y series de tiempo ](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_Times_series_Intro-lstm.ipynb)
+  - [Predicción de la acción de Apple a un día](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_un_dia-dropout.ipynb)
+  - [Predicción de la acción de Apple a tres días](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_tres_dias-dropout-.ipynb)
+  - [Predicción de todos valores en una ventana futura](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_tres_dias-multiple-.ipynb)
+  - [Series de tiempo  Multivariadas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%205-%20Redes%20recurrentes/Cuadernos/rnrTimes_series_Multivariate.ipynb)
+   - [Tutorial Google de Series de tiempo 2021](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_google_time_series.ipynb)
+
  ## Web Scraping
- - Expresiones Regulares
- - Introducción a Web Scraping
- - Introducción a Selenium
+ - Expresiones Regulares, [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Taller_Regex.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Taller_Regex.ipynb)
+ - Introducción a Web Scraping, [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Web_Scraping_Intro.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Web_Scraping_Intro.ipynb)
+ - Introducción a Selenium, [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Web_Scraping_Selenium.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Web%20Scraping/Cuadernos/Web_Scraping_Selenium.ipynb)
  - Taller de Web Scraping
  ## Visión Artificial
  - Redes Convolucionales: Convoluciones, Filtros, Pooling
